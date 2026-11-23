@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">MiasCN Studio — software development</title>
+  <desc id="desc">Corporate dark navy banner with a mint monogram and abstract connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081522"/><stop offset="1" stop-color="#10283A"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#46E0C1"/><stop offset="1" stop-color="#71A8FF"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#B5D7E7" stroke-opacity=".055"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="55"/></filter>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+  <circle cx="1030" cy="290" r="170" fill="#37D8BB" opacity=".12" filter="url(#blur)"/>
+  <path d="M850 90h1v460M930 90h1v460M1010 90h1v460M1090 90h1v460M1170 90h1v460M830 170h390M830 250h390M830 330h390M830 410h390M830 490h390" stroke="#B5D7E7" stroke-opacity=".07"/>
+  <g fill="none" stroke="url(#glow)" stroke-width="3" opacity=".8"><path d="M910 335 1018 250l95 70 100-122M910 335l104 112 99-127 100 105"/></g>
+  <g fill="#0C1C2A" stroke="url(#glow)" stroke-width="4"><circle cx="910" cy="335" r="10"/><circle cx="1018" cy="250" r="10"/><circle cx="1113" cy="320" r="10"/><circle cx="1213" cy="198" r="10"/><circle cx="1014" cy="447" r="10"/><circle cx="1113" cy="320" r="10"/><circle cx="1213" cy="425" r="10"/></g>
+  <rect x="92" y="124" width="7" height="74" rx="3.5" fill="#46E0C1"/>
+  <text x="126" y="176" fill="#F4F8FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">MiasCN Studio</text>
+  <text x="94" y="264" fill="#B8CBD8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="4">SOFTWARE DEVELOPMENT</text>
+  <text x="94" y="355" fill="#F4F8FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="600">Useful ideas, built with care.</text>
+  <text x="94" y="403" fill="#B8CBD8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Web · Mobile · Automation · Linux</text>
+  <text x="94" y="542" fill="#46E0C1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3">INDEPENDENT SOFTWARE STUDIO</text>
+  <path d="M94 570h350" stroke="#46E0C1" stroke-opacity=".35"/>
+</svg>
